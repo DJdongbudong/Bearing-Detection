@@ -21,3 +21,14 @@
 2. 网络模型搭建
 3. 模型的训练
 4. 模型应用与提交预测结果
+
+# requirement
+tensorflow-gpu==1.5.0
+Keras==2.1.4
+# train
+cd ./experience
+python no3_train.py
+# test to submit
+python no4_test.py
+# csdn
+https://blog.csdn.net/weixin_41275726/article/details/102837769
